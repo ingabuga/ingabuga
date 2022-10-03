@@ -9,9 +9,9 @@
 <a href="https://www.facebook.com/Ingaboba">
   <img src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
  </a>
- <!--<a href="https://t.me/ingabuga">
+ <a href="https://t.me/ingabuga">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
- </a>-->
+ </a>
 </div>
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=ingabuga&style=flat-square" alt=""/>
