@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="left">
-<a href="https://www.linkedin.com/in/alexander-pavlov-aa5b2163/">
+<a href="https://www.linkedin.com/in/ingabuga/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://www.facebook.com/Ingaboba">
