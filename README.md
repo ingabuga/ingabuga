@@ -24,7 +24,7 @@
 <br>
 
 ## :man_technologist: Обо мне:
-- Я начинающий фронтэнд-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Новосибирска.
+- Я фронтэнд-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - Работаю с реальными проектами
 - Стремлюсь работать с настоящими профессионалами
 - Стараюсь писать чистый читабельный код
