@@ -48,11 +48,11 @@
 
 <br>
 
-## <p align="left">:fire: Моя статистика:</p>
+<!--## <p align="left">:fire: Моя статистика:</p>
 <div align="left">
 <img width="395px" alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingabuga&layout=compact&theme=buefy">
 <img width="400px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=ingabuga&show_icons=true&theme=buefy">
-  </div>
+  </div>-->
 <!--
 **ingabuga/ingabuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
