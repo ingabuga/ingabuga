@@ -27,10 +27,10 @@
 ## :man_technologist: About me:
 Frontend developer
 
-Work with real projects
-Keen on working with real professionals
-Always try to write clean and readable code
-Constantly increase my hard skills and help others to learn new technologies
+Work with real projects<br>
+Keen on working with real professionals<br>
+Always try to write clean and readable code<br>
+Constantly increase my hard skills and help others to learn new technologies<br>
 People person and motor of the team
 
 <br>
