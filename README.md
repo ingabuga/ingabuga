@@ -23,13 +23,15 @@
 
 <br>
 
-## :man_technologist: Обо мне:
-- Я фронтэнд-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- Работаю с реальными проектами
-- Стремлюсь работать с настоящими профессионалами
-- Стараюсь писать чистый читабельный код
-- Постоянно повышаю hard skills и помогаю другим осваивать новые технологии 
-- Душа компании и мотор команды
+
+## :man_technologist: About me:
+Frontend developer
+
+Work with real projects
+Keen on working with real professionals
+Always try to write clean and readable code
+Constantly increase my hard skills and help others to learn new technologies
+People person and motor of the team
 
 <br>
 
